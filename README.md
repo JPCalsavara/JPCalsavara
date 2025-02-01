@@ -1,8 +1,8 @@
-<h1 align="center">## Oi, eu sou João Calsavara 👋</h1>
+<h1 align="center"> Oi, eu sou **João Calsavara** 👋</h1>
 
-- 🔭 Atualmente estou trabalhando na Atria Jr.
-- 🌱 Estou estudando Python atualmente
-- 🏫 Estou cursando TADS na Unicamp
+- 🔭 Atualmente estou trabalhando na **Atria Jr**.
+- 🌱 Estou estudando **Python** atualmente
+- 🏫 Estou cursando **Análise de Sistemas** na **Unicamp**
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 

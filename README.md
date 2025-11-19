@@ -1,9 +1,9 @@
 <h1 align="center"> Oi, eu sou <spam>João Calsavara<spam> 👋</h1>
 
-- 🔭 Atualmente estou trabalhando na **Atria Jr**.
+- 🔭 Atualmente estou trabalhando na **Mottu**.
 - 🌱 Fundador e Diretor Executivo do **Semeia Code**
 - 🏫 Estou cursando **Análise de Sistemas** na **Unicamp**
-- 💻 Atualmente estudando **TypeScript** com **Express, React, Framer Motion, JsonWebToken, Tailwind, Primas e SOLID**
+- 💻 Trabalhando com**.Net** utilizando **PostgreSQL, xUnit, Graph, EntityFramework, Refit e SOLID**
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 

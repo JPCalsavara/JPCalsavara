@@ -1,8 +1,8 @@
-<h1 data-importer="text" align="left">Eu sou João Calsavara</h1>
+<h1 data-importer="text" align="left">Engenheiro de Software com foco em Backend e Fullstack</h1>
 
 ###
 
-<p data-importer="text" align="left">Engenheiro de Software com foco em Backend e Fullstack, atualmente graduando em Análise e Desenvolvimento de Sistemas na UNICAMP. Minha atuação profissional transita entre a solidez da engenharia de software tradicional e o dinamismo da Engenharia de IA e Dados.</p>
+<p data-importer="text" align="left">Atualmente graduando em Análise e Desenvolvimento de Sistemas na UNICAMP. Minha atuação profissional transita entre a solidez da engenharia de software tradicional e o dinamismo da Engenharia de IA e Dados.</p>
 
 ###
 
@@ -10,7 +10,29 @@
 
 ###
 
-<p data-importer="text" align="left">Sou um desenvolvedor apaixonado por construir sistemas escaláveis e eficientes. A minha base profissional foi construída em ambientes de alta volumetria, onde aprendi que a tecnologia é um meio para resolver problemas operacionais e de negócio. Atualmente, dedico minha trajetória profissional à transição para a Engenharia de IA e Dados, aplicando conhecimento técnico em pipelines de dados, modelagem e infraestrutura para colocar modelos inteligentes em produção.<br><br>Minha trajetória prática é guiada pela construção de sistemas resilientes:<br><br>-  Experiência na Mottu: Atuei em um ambiente de missão crítica desenvolvendo microsserviços em C# e .NET 8 com Kubernetes. Liderou a automação de fluxos operacionais integrando LLMs para processamento de dados estruturados e não estruturados, resultando em ganhos de eficiência mensuráveis na operação logística.<br>- Projetos Fullstack e Arquitetura: Desenvolvo plataformas de gestão aplicando Clean Architecture e DDD. Integrei fluxos autônomos de agentes de IA ao ciclo de desenvolvimento para otimizar processos de validação e testes, além de aplicar estratégias de cache e performance em bancos de dados relacionais.<br>- Contribuição Comunitária: Fundador do Semeia Code na UNICAMP. Lidero uma equipe multidisciplinar em um projeto de extensão focado em educação tecnológica, ensinando lógica e Python para estudantes de escolas públicas.<br><br>Objetivo Profissional<br><br>Busco atuar como Desenvolvedor Backend, Engenheiro de Dados ou Engenheiro de IA. Meu objetivo é aplicar minha base técnica para construir sistemas robustos, orquestrar pipelines de dados eficientes e implementar soluções baseadas em Inteligência Artificial em ambientes de alta escala.</p>
+<p>
+    Sou um desenvolvedor apaixonado por construir sistemas escaláveis e eficientes. A minha base profissional foi construída em ambientes de alta volumetria, onde aprendi que a tecnologia é um meio para resolver problemas operacionais e de negócio. Atualmente, dedico minha trajetória profissional à transição para a Engenharia de IA e Dados, aplicando conhecimento técnico em pipelines de dados, modelagem e infraestrutura para colocar modelos inteligentes em produção.
+</p>
+
+<h3>Trajetória prática guiada pela construção de sistemas resilientes</h3>
+<ul>
+    <li>
+        <strong>Experiência na Mottu:</strong> Atuei em um ambiente de missão crítica desenvolvendo microsserviços em C# e .NET 8 com Kubernetes. Liderou a automação de fluxos operacionais integrando LLMs para processamento de dados estruturados e não estruturados, resultando em ganhos de eficiência mensuráveis na operação logística.
+    </li>
+    <li>
+        <strong>Projetos Fullstack e Arquitetura:</strong> Desenvolvo plataformas de gestão aplicando Clean Architecture e DDD. Integrei fluxos autônomos de agentes de IA ao ciclo de desenvolvimento para otimizar processos de validação e testes, além de aplicar estratégias de cache e performance em bancos de dados relacionais.
+    </li>
+    <li>
+        <strong>Contribuição Comunitária:</strong> Fundador do Semeia Code na UNICAMP. Lidero uma equipe multidisciplinar em um projeto de extensão focado em educação tecnológica, ensinando lógica e Python para estudantes de escolas públicas.
+    </li>
+</ul>
+
+<h3>Objetivo Profissional</h3>
+<p>
+    Busco atuar como Desenvolvedor Backend, Engenheiro de Dados ou Engenheiro de IA. Meu objetivo é aplicar minha base técnica para construir sistemas robustos, orquestrar pipelines de dados eficientes e implementar soluções baseadas em Inteligência Artificial em ambientes de alta escala.
+</p>
+  
+
 
 ###
 

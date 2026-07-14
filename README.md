@@ -1,28 +1,65 @@
-<h1 align="center"> Oi, eu sou o João Calsavara 👋</h1>
+<h1 data-importer="text" align="left">Eu sou João Calsavara</h1>
 
-<h3 align="center">Desenvolvedor Backend .NET | Engenharia de IA | Estudante na UNICAMP</h3>
+###
 
-<p align="center">
-Sou um Desenvolvedor de Software apaixonado por criar arquiteturas escaláveis, resolver problemas complexos e otimizar processos através da tecnologia e inovação.
-</p>
+<p data-importer="text" align="left">Engenheiro de Software com foco em Backend e Fullstack, atualmente graduando em Análise e Desenvolvimento de Sistemas na UNICAMP. Minha atuação profissional transita entre a solidez da engenharia de software tradicional e o dinamismo da Engenharia de IA e Dados.</p>
 
-## Sobre mim:
-<ul>
-<li>Atualmente atuo como Desenvolvedor Backend na Mottu (Unicórnio LATAM), projetando soluções para o core business e sistema de multas.</li>
+###
 
-<li>Cursando Análise e Desenvolvimento de Sistemas na UNICAMP.</li>
+<h2 data-importer="text" align="left">Sobre mim e meus objetivos</h2>
 
-<li> Fundador e Coordenador Executivo do Semeia Code, projeto de extensão focado em educação tecnológica.</li>
+###
 
-<li>Desenvolvendo sistemas distrubuidos e escaláveis com <span>C#, .NET 8, PostgreSQL, Docker, Kubernetes e Mensageria (Pub/Sub).</span>s</li>
+<p data-importer="text" align="left">Sou um desenvolvedor apaixonado por construir sistemas escaláveis e eficientes. A minha base profissional foi construída em ambientes de alta volumetria, onde aprendi que a tecnologia é um meio para resolver problemas operacionais e de negócio. Atualmente, dedico minha trajetória profissional à transição para a Engenharia de IA e Dados, aplicando conhecimento técnico em pipelines de dados, modelagem e infraestrutura para colocar modelos inteligentes em produção.<br><br>Minha trajetória prática é guiada pela construção de sistemas resilientes:<br><br>-  Experiência na Mottu: Atuei em um ambiente de missão crítica desenvolvendo microsserviços em C# e .NET 8 com Kubernetes. Liderou a automação de fluxos operacionais integrando LLMs para processamento de dados estruturados e não estruturados, resultando em ganhos de eficiência mensuráveis na operação logística.<br>- Projetos Fullstack e Arquitetura: Desenvolvo plataformas de gestão aplicando Clean Architecture e DDD. Integrei fluxos autônomos de agentes de IA ao ciclo de desenvolvimento para otimizar processos de validação e testes, além de aplicar estratégias de cache e performance em bancos de dados relacionais.<br>- Contribuição Comunitária: Fundador do Semeia Code na UNICAMP. Lidero uma equipe multidisciplinar em um projeto de extensão focado em educação tecnológica, ensinando lógica e Python para estudantes de escolas públicas.<br><br>Objetivo Profissional<br><br>Busco atuar como Desenvolvedor Backend, Engenheiro de Dados ou Engenheiro de IA. Meu objetivo é aplicar minha base técnica para construir sistemas robustos, orquestrar pipelines de dados eficientes e implementar soluções baseadas em Inteligência Artificial em ambientes de alta escala.</p>
 
-<li>Integrando Inteligência Artificial e Engenharia de Prompt (Few-Shot) para automatização e estruturação de regras de negócio.</li>
+###
 
-<li> Focado em boas práticas: Clean Architecture, DDD, SOLID e Testes Automatizados (xUnit/Moq).</li>
+<h2 data-importer="text" align="left">Tecnologias</h2>
 
-## 🌐 Contato:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-leite-calsavara-b951b6230/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jpcalsavara@gmail.com) 
+###
 
-# 💻 Tecnologias:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+</div>
+
+###
